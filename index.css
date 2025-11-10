@@ -804,7 +804,14 @@ z-index: 11;
         color: tomato;
         transition: .4s;
     }
-    
+    .main4:hover{
+        transform: scale(1.1);
+        transition: .4s;
+    }
+    .main5:hover{
+        transform: scale(1.1);
+        transition: .4s;
+    }
     
         
         
